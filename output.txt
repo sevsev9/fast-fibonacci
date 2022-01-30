@@ -1,0 +1,189 @@
+# Determined Calculation Path: 
+step:   0 | odd: false | fibonacci index: 1
+step:   1 | odd: false | fibonacci index: 2
+step:   2 | odd: false | fibonacci index: 4
+step:   3 | odd: false | fibonacci index: 8
+step:   4 | odd: false | fibonacci index: 16
+step:   5 | odd: false | fibonacci index: 32
+step:   6 | odd:  true | fibonacci index: 64
+step:   7 | odd: false | fibonacci index: 129
+step:   8 | odd: false | fibonacci index: 258
+step:   9 | odd:  true | fibonacci index: 516
+step:  10 | odd:  true | fibonacci index: 1033
+step:  11 | odd:  true | fibonacci index: 2067
+step:  12 | odd:  true | fibonacci index: 4135
+step:  13 | odd:  true | fibonacci index: 8271
+step:  14 | odd:  true | fibonacci index: 16543
+step:  15 | odd: false | fibonacci index: 33087
+step:  16 | odd: false | fibonacci index: 66174
+step:  17 | odd:  true | fibonacci index: 132348
+step:  18 | odd:  true | fibonacci index: 264697
+step:  19 | odd:  true | fibonacci index: 529395
+step:  20 | odd: false | fibonacci index: 1058791
+step:  21 | odd: false | fibonacci index: 2117582
+step:  22 | odd:  true | fibonacci index: 4235164
+step:  23 | odd: false | fibonacci index: 8470329
+step:  24 | odd:  true | fibonacci index: 16940658
+step:  25 | odd:  true | fibonacci index: 33881317
+step:  26 | odd:  true | fibonacci index: 67762635
+step:  27 | odd:  true | fibonacci index: 135525271
+step:  28 | odd: false | fibonacci index: 271050543
+step:  29 | odd: false | fibonacci index: 542101086
+step:  30 | odd: false | fibonacci index: 1084202172
+step:  31 | odd:  true | fibonacci index: 2168404344
+step:  32 | odd:  true | fibonacci index: 4336808689
+step:  33 | odd:  true | fibonacci index: 8673617379
+step:  34 | odd:  true | fibonacci index: 17347234759
+step:  35 | odd:  true | fibonacci index: 34694469519
+step:  36 | odd: false | fibonacci index: 69388939039
+step:  37 | odd: false | fibonacci index: 138777878078
+step:  38 | odd: false | fibonacci index: 277555756156
+step:  39 | odd:  true | fibonacci index: 555111512312
+step:  40 | odd: false | fibonacci index: 1110223024625
+step:  41 | odd: false | fibonacci index: 2220446049250
+step:  42 | odd:  true | fibonacci index: 4440892098500
+step:  43 | odd: false | fibonacci index: 8881784197001
+step:  44 | odd:  true | fibonacci index: 17763568394002
+step:  45 | odd: false | fibonacci index: 35527136788005
+step:  46 | odd: false | fibonacci index: 71054273576010
+step:  47 | odd: false | fibonacci index: 142108547152020
+step:  48 | odd: false | fibonacci index: 284217094304040
+step:  49 | odd: false | fibonacci index: 568434188608080
+step:  50 | odd: false | fibonacci index: 1136868377216160
+step:  51 | odd:  true | fibonacci index: 2273736754432320
+step:  52 | odd: false | fibonacci index: 4547473508864641
+step:  53 | odd: false | fibonacci index: 9094947017729282
+step:  54 | odd:  true | fibonacci index: 18189894035458564
+step:  55 | odd:  true | fibonacci index: 36379788070917129
+step:  56 | odd: false | fibonacci index: 72759576141834259
+step:  57 | odd: false | fibonacci index: 145519152283668518
+step:  58 | odd: false | fibonacci index: 291038304567337036
+step:  59 | odd: false | fibonacci index: 582076609134674072
+step:  60 | odd:  true | fibonacci index: 1164153218269348144
+step:  61 | odd: false | fibonacci index: 2328306436538696289
+step:  62 | odd: false | fibonacci index: 4656612873077392578
+step:  63 | odd: false | fibonacci index: 9313225746154785156
+step:  64 | odd:  true | fibonacci index: 18626451492309570312
+step:  65 | odd: false | fibonacci index: 37252902984619140625
+step:  66 | odd: false | fibonacci index: 74505805969238281250
+step:  67 | odd: false | fibonacci index: 149011611938476562500
+step:  68 | odd: false | fibonacci index: 298023223876953125000
+step:  69 | odd: false | fibonacci index: 596046447753906250000
+step:  70 | odd: false | fibonacci index: 1192092895507812500000
+step:  71 | odd: false | fibonacci index: 2384185791015625000000
+step:  72 | odd: false | fibonacci index: 4768371582031250000000
+step:  73 | odd: false | fibonacci index: 9536743164062500000000
+step:  74 | odd: false | fibonacci index: 19073486328125000000000
+step:  75 | odd: false | fibonacci index: 38146972656250000000000
+step:  76 | odd: false | fibonacci index: 76293945312500000000000
+step:  77 | odd: false | fibonacci index: 152587890625000000000000
+step:  78 | odd: false | fibonacci index: 305175781250000000000000
+step:  79 | odd: false | fibonacci index: 610351562500000000000000
+step:  80 | odd: false | fibonacci index: 1220703125000000000000000
+step:  81 | odd: false | fibonacci index: 2441406250000000000000000
+step:  82 | odd: false | fibonacci index: 4882812500000000000000000
+step:  83 | odd: false | fibonacci index: 9765625000000000000000000
+step:  84 | odd: false | fibonacci index: 19531250000000000000000000
+step:  85 | odd: false | fibonacci index: 39062500000000000000000000
+step:  86 | odd: false | fibonacci index: 78125000000000000000000000
+step:  87 | odd: false | fibonacci index: 156250000000000000000000000
+step:  88 | odd: false | fibonacci index: 312500000000000000000000000
+step:  89 | odd: false | fibonacci index: 625000000000000000000000000
+step:  90 | odd: false | fibonacci index: 1250000000000000000000000000
+step:  91 | odd: false | fibonacci index: 2500000000000000000000000000
+step:  92 | odd: false | fibonacci index: 5000000000000000000000000000
+
+# Actual Calculation Path:
+value:      1 | idx: 2
+value:      3 | idx: 4
+value:     21 | idx: 8
+value:    987 | idx: 16
+value:  17973 | idx: 32
+value:  32340 | idx: 64
+value:   6538 | idx: 128
+value:   2746 | idx: 258
+value:  15061 | idx: 516
+value:  34006 | idx: 1032
+value:  43438 | idx: 2066
+value:  37391 | idx: 4134
+value:  15715 | idx: 8270
+value:  38391 | idx: 16542
+value:   8078 | idx: 33086
+value:  38151 | idx: 66174
+value:  23852 | idx: 132348
+value:  27409 | idx: 264696
+value:   7465 | idx: 529394
+value:   1007 | idx: 1058790
+value:  21196 | idx: 2117582
+value:  30853 | idx: 4235164
+value:  21594 | idx: 8470328
+value:  40785 | idx: 16940658
+value:  26610 | idx: 33881316
+value:  22020 | idx: 67762634
+value:  40165 | idx: 135525270
+value:  35333 | idx: 271050542
+value:  26911 | idx: 542101086
+value:  29485 | idx: 1084202172
+value:  43731 | idx: 2168404344
+value:  32035 | idx: 4336808688
+value:  44712 | idx: 8673617378
+value:  32621 | idx: 17347234758
+value:  35934 | idx: 34694469518
+value:  24986 | idx: 69388939038
+value:  18362 | idx: 138777878078
+value:  16826 | idx: 277555756156
+value:  16344 | idx: 555111512312
+value:  41219 | idx: 1110223024624
+value:  44114 | idx: 2220446049250
+value:  16417 | idx: 4440892098500
+value:  41498 | idx: 8881784197000
+value:  30264 | idx: 17763568394002
+value:  42101 | idx: 35527136788004
+value:  35053 | idx: 71054273576010
+value:  21940 | idx: 142108547152020
+value:  20782 | idx: 284217094304040
+value:  28437 | idx: 568434188608080
+value:  44751 | idx: 1136868377216160
+value:  27912 | idx: 2273736754432320
+value:  35165 | idx: 4547473508864640
+value:  15691 | idx: 9094947017729282
+value:  32326 | idx: 18189894035458564
+value:   6147 | idx: 36379788070917128
+value:  44369 | idx: 72759576141834258
+value:  28491 | idx: 145519152283668518
+value:  42497 | idx: 291038304567337036
+value:   8131 | idx: 582076609134674072
+value:  20427 | idx: 1164153218269348144
+value:  38129 | idx: 2328306436538696288
+value:  32088 | idx: 4656612873077392578
+value:  14752 | idx: 9313225746154785156
+value:   6752 | idx: 18626451492309570312
+value:  13473 | idx: 37252902984619140624
+value:    900 | idx: 74505805969238281250
+value:  28257 | idx: 149011611938476562500
+value:  32369 | idx: 298023223876953125000
+value:  10485 | idx: 596046447753906250000
+value:  26448 | idx: 1192092895507812500000
+value:  42751 | idx: 2384185791015625000000
+value:  32027 | idx: 4768371582031250000000
+value:   6347 | idx: 9536743164062500000000
+value:  33200 | idx: 19073486328125000000000
+value:  24221 | idx: 38146972656250000000000
+value:  13509 | idx: 76293945312500000000000
+value:  17629 | idx: 152587890625000000000000
+value:  30438 | idx: 305175781250000000000000
+value:  39407 | idx: 610351562500000000000000
+value:  23777 | idx: 1220703125000000000000000
+value:  40304 | idx: 2441406250000000000000000
+value:   3387 | idx: 4882812500000000000000000
+value:  38521 | idx: 9765625000000000000000000
+value:    610 | idx: 19531250000000000000000000
+value:  18105 | idx: 39062500000000000000000000
+value:  24735 | idx: 78125000000000000000000000
+value:  24143 | idx: 156250000000000000000000000
+value:   3801 | idx: 312500000000000000000000000
+value:   3132 | idx: 625000000000000000000000000
+value:  14043 | idx: 1250000000000000000000000000
+value:  14109 | idx: 2500000000000000000000000000
+value:  26252 | idx: 5000000000000000000000000000
+value:  44166 | idx: 10000000000000000000000000000

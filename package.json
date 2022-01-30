@@ -1,0 +1,15 @@
+{
+  "name": "fast-fibonacci",
+  "version": "1.0",
+  "description": "A fast way to calculate any number in the fibonacci series",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["fibonacci"],
+  "author": "sevsev9",
+  "license": "GPLv3",
+  "dependencies": {
+    "big-integer": "^1.6.51"
+  }
+}
